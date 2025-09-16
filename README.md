@@ -1,2 +1,2 @@
-# AxiomStudio
-Desktop interface for Axiom developed in GTK4
+# VertexStudio
+Desktop interface for Vertex developed in GTK4
