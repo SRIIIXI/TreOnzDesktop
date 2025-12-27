@@ -1,2 +1,2 @@
-# VertexStudio
-Desktop interface for Vertex developed in GTK4
+# TreOnzDesktop
+Light and lean desktop for FreeBSD in Qt6
