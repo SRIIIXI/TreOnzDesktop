@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 
-set(Project TreOnzDesktop)
+set(Project Phalakam)
 project(${Project})
 
 add_subdirectory(Navik)
